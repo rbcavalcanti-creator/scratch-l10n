@@ -2,7 +2,7 @@
     "CONTROL_FOREVER": "sempre",
     "CONTROL_REPEAT": "repita %1 vezes",
     "CONTROL_IF": "se %1 então",
-    "CONTROL_ELSE": "senão",
+    "CONTROL_ELSE": "se não for o caso",
     "CONTROL_STOP": "pare",
     "CONTROL_STOP_ALL": "todos",
     "CONTROL_STOP_THIS": "este script",
